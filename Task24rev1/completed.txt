@@ -1,0 +1,2 @@
+60,Boipelo Mojakes,House Pelo,14,Condo,48 Gerrit Maritz street Pretoria Gauteng,1000000,1000000,2022-03-28,Michael Schnob,Thomas Mask,finalised on 2021-12-22
+90,Sam Ralieta,House Ralieta,11,Dwelling,23 Roos Streer Clarens Free State,5000000,4000000,2030-12-23,Simon Berg,Ping Pong,finalised on 2021-12-22

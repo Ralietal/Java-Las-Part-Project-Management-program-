@@ -1,0 +1,4 @@
+90,Sam Ralieta,House Ralieta,11,Dwelling,23 Roos Street Clarens Free State,5000000,4000000,2030-12-23,Simon Berg,Ping Pong,Active
+80,Paul Stone,Stone House,12,Flat,12 Dabula Street Kemptonpark Gauteng,6000000,5000000,2021-08-14,Selby Maboya,Loop Long,Active
+70,Nkaki Ralieta,Nkaki's House,13,House,18 Moffat Street Secunda Mpumalanga,2000000,1000000,2021-10-14,Jakes Majik,Joseph Mple,Active
+60,Boipelo Mojakes,House Pelo,14,Condo,48 Gerrit Maritz Street Pretoria Gauteng,1000000,1000000,2022-03-28,Michael Schnob,Thomas Mask,Active

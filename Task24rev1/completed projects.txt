@@ -1,0 +1,7 @@
+90,Sam Ralieta,House Ralieta,11,Dwelling,23 Roos Street Clarens Free State,5000000,4000000,2030-12-23,Simon Berg,Ping Pong,finalised on 2022-02-14
+60,Boipelo Mojakes,House Pelo,14,Condo,48 Gerrit Maritz Street Pretoria Gauteng,1000000,1000000,2022-03-28,Ramanka,Thomas Mask,Finalised on 2022-02-14
+85,Sam Ralieta,House  Phoka,56,Testing,12-Vrede street-Durbanville-Western Cape,2000000,2000000,2012-01-19,Michael Schnob,Selnon Maobye,Finalised on 2022-02-14
+80,Paul Stone,Stone House,12,Flat,12 Dabula Street Kemptonpark Gauteng,6000000,5000000,2021-08-14,Selby Maboya,Loop Long,finalised on 2022-02-18
+80,Paul Stone,Stone House,12,Flat,12 Dabula Street Kemptonpark Gauteng,6000000,5000000,2021-08-14,Selby Maboya,Loop Long,Finalised on 2022-02-18
+90,Sam Ralieta,House Ralieta,11,Dwelling,23 Roos Street Clarens Free State,5000000,4000000,2030-12-23,Simon Berg,Ping Pong,Finalised on 2022-02-22
+85,Sam Ralieta,House  Phoka,56,Testing,12-Vrede street-Durbanville-Western Cape,2000000,2000000,2012-01-19,Michael Schnob,Selnon Maobye,Finalised on 2022-02-22
